@@ -26,5 +26,6 @@ title = '关于我'
 - GitHub:23jdd 
 ### 文章推荐
 [深入理解 HyperLogLog：从抛硬币到UV统计](https://23jdd.github.io/uv)
+[为什么 `go install .` 会提示 `Use -buildvcs=false](https://23jdd.github.io/buildvcs)
 ---
 
