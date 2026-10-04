@@ -111,9 +111,6 @@ terminal UI
 如果你也喜欢 Go、Rust、后端系统、开源项目或终端工具，欢迎来聊。
 
 - GitHub: [github.com/23jdd](https://github.com/23jdd)
-- Email: `your-email@example.com` <!-- Replace with your public email -->
-- Blog: `your-blog.example.com` <!-- Replace with your blog URL -->
-
 你也可以只留下一句：
 
 > “Hey, I saw what you built.”
